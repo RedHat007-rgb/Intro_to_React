@@ -31,6 +31,8 @@ const container = document.getElementById("root");
 const root = createRoot(container);
 root.render(React.createElement(App));
 
+/// learned how to convert a  js  to jsx...
+
 // import { createRoot } from "react-dom/client";
 // import Pizza from "./Pizza";
 
